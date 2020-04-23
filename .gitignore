@@ -1,5 +1,5 @@
-chromedriver.exe
-.vscode/
-config.ini
+/chromedriver.exe
+/.vscode
+/config.ini
 debug.log
-
+pipfile.lock
