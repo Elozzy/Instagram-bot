@@ -1,3 +1,4 @@
-/utility_methods
-/chromedriver.exe
-/.vscode
+utility_methods/
+chromedriver.exe
+.vscode/
+config.ini
